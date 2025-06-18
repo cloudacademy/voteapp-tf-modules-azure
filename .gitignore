@@ -1,0 +1,17 @@
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.json
+*.tfignore
+*.tfbackup
+*.tfstate.backup
+*.tfstate.d
+*.tfstate.d/*
+
+*.pem
+*.key
+*.crt
+*.pub
+*.p12
